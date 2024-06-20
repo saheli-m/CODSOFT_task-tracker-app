@@ -1,2 +1,0 @@
-# CodeSoft
-#TASK TRACKER APP
